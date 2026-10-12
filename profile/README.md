@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="62%" valign="middle">
-      <h1>It's Broken AI</h1>
+      <h1>itsbroken.ai</h1>
       <p>What happens when you actually build with AI: frameworks, security tools, and war stories from the work.</p>
       <p>We build in public, break what we build, and write down what the failures teach us.</p>
       <p><a href="https://itsbroken.ai/">itsbroken.ai</a></p>
